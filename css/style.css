@@ -1,0 +1,103 @@
+body{
+  background-color: black;
+}
+
+.sidenav {
+height:100%;
+width:20%;
+position: fixed;
+background-color:	red;
+box-shadow: 0 2px 4px 0 gray;
+opacity:.9;
+}
+
+h1{
+font-size: 35px;
+font-family: IMPACT;
+color: black;
+text-align: center;
+text-shadow: 2px 2px white;
+}
+
+.sidenav a{
+font-family: bahnschrift light ;
+color: white;
+text-align: center;
+text-shadow: 2px 2px black;
+
+}
+
+.div1{
+  float: left;
+width:40%;
+margin-left: 20%;
+}
+
+.div2{
+  float:right;
+  width:38%;
+
+}
+.div3{
+  float: left;
+  width:80%;
+  margin-left: 20%;
+}
+
+.b{
+  font-style:;
+  line-height: 1.8;
+  font-family: century gothic ;
+  color: white;
+  text-align: left;
+  margin-left:5%;
+}
+
+.c{
+  font-style:italic;
+  font-size: 25px;
+  line-height: 1.8;
+  font-family: century gothic ;
+  color: 	#BDB76B;
+  text-align: left;
+  margin-left:10%;
+  background-color: rgb(169,169,169,.2)
+
+
+}
+
+.d{
+
+  font-size: 50px;
+  font-family: century gothic ;
+  color: #F0E68C;
+  text-align: left;
+  font-style: bold;
+  text-decoration:underline;
+  margin-left: 1%;
+}
+
+.text1{
+  margin-left:65%;
+  width:30%;
+}
+
+.text2{
+margin-left:65%;
+width:30%;
+}
+
+.img{
+  height: 700px;
+  width: 810px;
+
+  border:4px solid #F0E68C;
+
+}
+
+.img2{
+  width:700px;
+  height:500px;
+  border:4px solid #F0E68C;
+
+}
